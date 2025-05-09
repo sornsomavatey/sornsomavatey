@@ -17,6 +17,17 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=sornsomavatey&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sornsomavatey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Featured Youtube Video
+<!-- prettier-ignore-start -->
+<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
+<a href="https://youtu.be/KO9j0EzS_bw?si=wpTuw6IExAemV8CI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <img src="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&timestamp=1696868769&background_color=%23ffffff&title_color=%2324292f&stats_color=%2357606a&max_title_lines=2&width=250&border_radius=5&duration=172" alt="What is Cloud Computing?" title="What is Cloud Computing">
+  </picture>
+</a>
+<!-- END EXAMPLE-YOUTUBE-CARDS -->
+<!-- prettier-ignore-end -->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sornsomavatey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
