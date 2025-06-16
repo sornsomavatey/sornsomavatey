@@ -20,21 +20,41 @@
 ## Featured Youtube Video
 <!-- prettier-ignore-start -->
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-<a href="https://youtu.be/KO9j0EzS_bw?si=wpTuw6IExAemV8CI" style="display:inline-block; margin-right: 10px;">
+<style>
+  .ytcard {
+    display: inline-block;
+    width: 250px;       /* fixed width */
+    height: 140px;      /* fixed height, adjust as needed */
+    margin-right: 10px;
+  }
+  .ytcard picture,
+  .ytcard img {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+    display: block;
+    object-fit: cover;
+  }
+</style>
+
+<a href="https://youtu.be/KO9j0EzS_bw?si=wpTuw6IExAemV8CI" class="ytcard" title="What is Cloud Computing?">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
     <img src="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=2&width=250&border_radius=5&duration=172" 
-         alt="What is Cloud Computing?" title="What is Cloud Computing">
+         alt="What is Cloud Computing?" >
   </picture>
 </a>
 
-<a href="https://youtu.be/Kh-PmYLQJVg?si=Qy0pqvDko5ucy0Vp" style="display:inline-block;">
+<a href="https://youtu.be/Kh-PmYLQJVg?si=Qy0pqvDko5ucy0Vp" class="ytcard" title="Is Cloud Native replacing Cloud Computing?">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing+?&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing+?&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
     <img src="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing+?&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=2&width=250&border_radius=5&duration=172" 
-         alt="Is Cloud Native replacing Cloud Computing ?" title="Is Cloud Native replacing Cloud Computing ?">
+         alt="Is Cloud Native replacing Cloud Computing ?" >
   </picture>
 </a>
+
 
 <!-- END EXAMPLE-YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
