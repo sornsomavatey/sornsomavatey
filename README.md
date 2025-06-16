@@ -20,23 +20,6 @@
 ## Featured Youtube Video
 <!-- prettier-ignore-start -->
 <!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-<style>
-  .ytcard {
-    display: inline-block;
-    width: 250px;       /* fixed width */
-    height: 140px;      /* fixed height, adjust as needed */
-    margin-right: 10px;
-  }
-  .ytcard picture,
-  .ytcard img {
-    width: 100%;
-    height: 100%;
-    border-radius: 5px;
-    display: block;
-    object-fit: cover;
-  }
-</style>
-
 <a href="https://youtu.be/KO9j0EzS_bw?si=wpTuw6IExAemV8CI" class="ytcard" title="What is Cloud Computing?">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
