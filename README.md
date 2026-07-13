@@ -156,17 +156,17 @@ A gesture-controlled photo booth with instant photo delivery.
 
 <div align="center">
 
-![Somavatey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sornsomavatey&theme=default&hide_border=true&show_icons=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sornsomavatey&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600" alt="Somavatey's GitHub stats" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sornsomavatey&theme=default&hide_border=true)
+<img height="170" src="https://streak-stats.demolab.com?user=sornsomavatey&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sornsomavatey&layout=compact&theme=default&hide_border=true)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sornsomavatey&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600" alt="Top languages" />
 
 </div>
 
 ## GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sornsomavatey&theme=flat&no-frame=true&no-bg=true&margin-w=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sornsomavatey&theme=onedark&no-frame=true&no-bg=true&margin-w=6)
 
 ## Random Dev Quote
 
@@ -176,7 +176,7 @@ A gesture-controlled photo booth with instant photo delivery.
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=sornsomavatey&icon=0&color=3)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=sornsomavatey&style=flat-square&color=6f7850&label=Profile+views)
 
 Thanks for visiting my profile. I'm always learning, building, and looking for meaningful problems to solve.
 
