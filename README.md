@@ -126,31 +126,28 @@ A gesture-controlled photo booth with instant photo delivery.
 
 </details>
 
-## Recognition
-
-- Huawei ICT Competition Regional Finalist, Cloud Track
-- Full Scholarship, Digital Infrastructure at AUPP
-- Top 5 Outstanding Student, Sister of Code
-- National BAC II Exam, Grade A
-
 ## Featured YouTube Videos
+
+<div align="center">
 
 <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://youtu.be/KO9j0EzS_bw?si=wpTuw6IExAemV8CI" title="What is Cloud Computing?">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing%3F&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing%3F&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=2&width=250&border_radius=5&duration=172" alt="What is Cloud Computing?">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing%3F&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5&duration=172">
+    <img width="320" src="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing%3F&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=320&border_radius=5&duration=172" alt="What is Cloud Computing?">
   </picture>
 </a>
 <a href="https://youtu.be/Kh-PmYLQJVg?si=Qy0pqvDko5ucy0Vp" title="Is Cloud Native replacing Cloud Computing?">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing%3F&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing%3F&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Is Cloud Native replacing Cloud Computing?">
+    <source media="(prefers-color-scheme: dark)" srcset="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Cloud+Native+vs+Cloud+Computing&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=320&border_radius=5&duration=172">
+    <img width="320" src="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Cloud+Native+vs+Cloud+Computing&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=320&border_radius=5&duration=172" alt="Cloud Native vs Cloud Computing">
   </picture>
 </a>
 <!-- END YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
+
+</div>
 
 ## GitHub Stats
 
@@ -164,13 +161,6 @@ A gesture-controlled photo booth with instant photo delivery.
 <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sornsomavatey&theme=transparent" alt="Most commit language" />
 
 </div>
-
-## GitHub Highlights
-
-![Cloud](https://img.shields.io/badge/Huawei_ICT-Regional_Finalist-6f7850?style=for-the-badge)
-![Scholarship](https://img.shields.io/badge/AUPP-Full_Scholarship-30372b?style=for-the-badge)
-![Sister of Code](https://img.shields.io/badge/Sister_of_Code-Top_5_Student-d4a572?style=for-the-badge)
-![BAC II](https://img.shields.io/badge/National_BAC_II-Grade_A-cbd5ad?style=for-the-badge)
 
 ## Random Dev Quote
 
