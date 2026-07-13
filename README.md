@@ -1,54 +1,105 @@
-## Hi, I'm Vatey 👋
+# Hi, I'm Vatey
 
-# 💫 About Me:
-👩🏻‍🎓 Study Digital Infrastructure at the American University of Phnom Penh, Cambodia</br>
-🎨 Making videos about Cloud, vlog, and productivity on YouTube</br>
-🌷 #learninginpublic in my digital garden</br>
-💭 Currently learning about web development!</br>
+I'm Somavatey Sorn, a Digital Infrastructure student at the American University of Phnom Penh. I build practical projects across cloud, web, IoT, and product design, with a strong interest in making technology feel useful and human.
 
+## About Me
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__jjein__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somavatey-sorn-420606288/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jeinjein1318?si=16uekKCYfbgOmjaU) 
+- Studying Digital Infrastructure at AUPP in Phnom Penh, Cambodia
+- Interested in cloud computing, frontend development, connected systems, and UX/UI
+- Building projects with React, TypeScript, ESP32, Python, and cloud tools
+- Huawei ICT Competition Regional Finalist in the Cloud Track
+- Open to internships, junior developer opportunities, and thoughtful collaborations
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sornsomavatey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sornsomavatey&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sornsomavatey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Featured Work
 
-## Featured Youtube Video
-<!-- prettier-ignore-start -->
-<!-- BEGIN EXAMPLE-YOUTUBE-CARDS -->
-<a href="https://youtu.be/KO9j0EzS_bw?si=wpTuw6IExAemV8CI" class="ytcard" title="What is Cloud Computing?">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=KO9j0EzS_bw&title=What+is+Cloud+Computing+?&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=2&width=250&border_radius=5&duration=172" 
-         alt="What is Cloud Computing?" >
-  </picture>
-</a>
+### AeroPlant
+A mobile prototype and startup concept that connects aeroponic growers with restaurant buyers.
 
-<a href="https://youtu.be/Kh-PmYLQJVg?si=Qy0pqvDko5ucy0Vp" class="ytcard" title="Is Cloud Native replacing Cloud Computing?">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing+?&lang=en&background_color=%23000000&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172">
-    <img src="https://ytcards.demolab.com/?id=Kh-PmYLQJVg&title=Is+Cloud+Native+replacing+Cloud+Computing+?&lang=en&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=2&width=250&border_radius=5&duration=172" 
-         alt="Is Cloud Native replacing Cloud Computing ?" >
-  </picture>
-</a>
+- Designed crop discovery, pre-order, and delivery tracking flows
+- Focused on marketplace UX and product clarity
+- Tech and skills: mobile prototype, startup concept, marketplace UX, product design
 
+### One More Restaurant
+A responsive restaurant website built from early design prototypes into a live product.
 
-<!-- END EXAMPLE-YOUTUBE-CARDS -->
-<!-- prettier-ignore-end -->
+- Built reusable React and TypeScript components
+- Worked with responsive layouts and polished UI patterns
+- Tech: React, TypeScript, Tailwind CSS, shadcn/ui
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sornsomavatey&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Samanea Wellness Resort
+A hospitality website for Cambodia's first mountain wellness sanctuary.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- Built responsive pages across the resort experience
+- Focused on visual consistency and clear content structure
+- Tech: HTML, CSS, JavaScript, responsive UI
+
+### Smart IoT Parking
+An automated parking system with live slot monitoring, gate control, and alerts.
+
+- Connected ESP32 sensors, fee logic, Telegram alerts, and a dashboard
+- Tech: ESP32, MicroPython, Telegram Bot, Blynk
+
+### SnapBooth
+A gesture-controlled photo booth with instant photo delivery.
+
+- Integrated ESP32-CAM, MediaPipe, OpenCV, Flask, and Telegram
+- Tech: ESP32-CAM, MediaPipe, OpenCV, Flask
+
+## Tech Stack
+
+### Cloud and DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Huawei Cloud](https://img.shields.io/badge/Huawei_Cloud-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Data and Systems
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Design and Tools
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-146EF5?style=for-the-badge&logo=webflow&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+## Recognition
+
+- Huawei ICT Competition Regional Finalist, Cloud Track
+- Full Scholarship, Digital Infrastructure at AUPP
+- Top 5 Outstanding Student, Sister of Code
+- National BAC II Exam, Grade A
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/somavatey-sorn-420606288/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sornsomavatey)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@jeinjein1318)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__jjein__)
+
+## GitHub Stats
+
+![Somavatey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sornsomavatey&theme=default&hide_border=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sornsomavatey&layout=compact&theme=default&hide_border=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sornsomavatey&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Thanks for visiting my profile. I'm always learning, building, and looking for meaningful problems to solve.
