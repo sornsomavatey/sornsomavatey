@@ -156,17 +156,21 @@ A gesture-controlled photo booth with instant photo delivery.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sornsomavatey&show_icons=true&hide_border=true&theme=transparent&cache_seconds=21600" alt="Somavatey's GitHub stats" />
-
 <img height="170" src="https://streak-stats.demolab.com?user=sornsomavatey&hide_border=true&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sornsomavatey&layout=compact&hide_border=true&theme=transparent&cache_seconds=21600" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sornsomavatey&theme=transparent" alt="GitHub profile summary" />
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sornsomavatey&theme=transparent" alt="Repos per language" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sornsomavatey&theme=transparent" alt="Most commit language" />
 
 </div>
 
-## GitHub Trophies
+## GitHub Highlights
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=sornsomavatey&theme=onedark&no-frame=true&no-bg=true&margin-w=6)
+![Cloud](https://img.shields.io/badge/Huawei_ICT-Regional_Finalist-6f7850?style=for-the-badge)
+![Scholarship](https://img.shields.io/badge/AUPP-Full_Scholarship-30372b?style=for-the-badge)
+![Sister of Code](https://img.shields.io/badge/Sister_of_Code-Top_5_Student-d4a572?style=for-the-badge)
+![BAC II](https://img.shields.io/badge/National_BAC_II-Grade_A-cbd5ad?style=for-the-badge)
 
 ## Random Dev Quote
 
